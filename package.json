@@ -1,6 +1,6 @@
 {
   "name": "crypto-list-greg",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "An IOS application to track crypto activities",
   "homepage": "https://github.com/gregthomson0550/crypto-list",
   "main": "script.js",
