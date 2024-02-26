@@ -2,12 +2,17 @@
   "name": "crypto-list-greg",
   "version": "1.0.0",
   "description": "An IOS application to track crypto activities",
+  "homepage": "https://github.com/gregthomson0550/crypto-list",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "minti_fulkerson": "0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gregthomson0550/crypto-list"
   },
   "author": "",
   "license": "ISC"
